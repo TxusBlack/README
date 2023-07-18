@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=txusblack&label=Profile%20views&color=0e75b6&style=flat" alt="txusblack" /> </p>
 
-- 🔭 I’m currently working on [🚀 Rocketfy 🌎](https://www.rocketfy.co/)
+- 🔭 I’m currently working on [🚀 Rocketfy 🌎](https://www.rocketfy.co/) as a Lead DevOps SRE in AWS.
 
 - 🌱 I’m currently learning **Smart Contracts and DevOps**
 
