@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [🚀 Rocketfy 🌎](https://www.rocketfy.co/) as a Lead DevOps SRE in AWS.
 
-- 🌱 I’m currently learning **Smart Contracts and DevOps**
+- 🌱 I’m currently learning **Smart Contracts**
 
 - 👯 I’m looking to collaborate on **Blockchain projects 📡**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://diegomoreno.co/ (soon)](https://diegomoreno.co/ (soon))
 
-- 💬 Ask me about **JS Frameworks. Start a project from scratch, deployment and scaling.**
+- 💬 Ask me about **AWS, Infrastructure, JS Frameworks. Start a project from scratch, deployment and scaling.**
 
 - 📫 How to reach me **hello@diegomoreno.co**
 
